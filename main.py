@@ -9,7 +9,7 @@ window.config(padx = 40, pady = 40)
 def miles_to_km():
     miles =float(input.get())
     km = round(miles * 1.609)
-#     km_result.config(text=f"{km}")
+    km_result.config(text=f"{km}")
 
 # miles_label = Label(text="Miles")
 # miles_label.grid(row=0, column=3)
