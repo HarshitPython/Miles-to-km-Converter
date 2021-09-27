@@ -12,7 +12,7 @@ def miles_to_km():
     km_result.config(text=f"{km}")
 
 miles_label = Label(text="Miles")
-# miles_label.grid(row=0, column=3)
+miles_label.grid(row=0, column=3)
 
 # km_label = Label(text="Km")
 # km_label.grid(row=1, column=3)
