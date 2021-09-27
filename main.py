@@ -7,7 +7,7 @@ window.minsize(width=500, height=300)
 window.config(padx = 40, pady = 40)
 
 def miles_to_km():
-#     miles =float(input.get())
+    miles =float(input.get())
 #     km = round(miles * 1.609)
 #     km_result.config(text=f"{km}")
 
