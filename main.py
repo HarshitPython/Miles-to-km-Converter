@@ -11,7 +11,7 @@ def miles_to_km():
     km = round(miles * 1.609)
     km_result.config(text=f"{km}")
 
-# miles_label = Label(text="Miles")
+miles_label = Label(text="Miles")
 # miles_label.grid(row=0, column=3)
 
 # km_label = Label(text="Km")
