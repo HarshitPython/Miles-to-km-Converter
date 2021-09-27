@@ -14,7 +14,7 @@ def miles_to_km():
 miles_label = Label(text="Miles")
 miles_label.grid(row=0, column=3)
 
-# km_label = Label(text="Km")
+km_label = Label(text="Km")
 # km_label.grid(row=1, column=3)
 
 # is_equal_to_label = Label(text="is equal to")
