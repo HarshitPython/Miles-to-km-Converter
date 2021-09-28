@@ -28,7 +28,7 @@ print(input.get())
 input.grid(row=0, column=2)
 
 
-# calculate_button = Button(text="Calculate",command=miles_to_km)
+calculate_button = Button(text="Calculate",command=miles_to_km)
 # calculate_button.config(padx = 10, pady = 10)
 # calculate_button.grid(row=2, column=2)
 
