@@ -21,7 +21,7 @@ is_equal_to_label = Label(text="is equal to")
 is_equal_to_label.grid(row=1, column=1)
 
 km_result = Label(text="0")
-# km_result.grid(row=1, column=2)
+km_result.grid(row=1, column=2)
 
 # input = Entry(width=10,text="0")
 # print(input.get())
