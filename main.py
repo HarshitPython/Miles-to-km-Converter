@@ -23,7 +23,7 @@ is_equal_to_label.grid(row=1, column=1)
 km_result = Label(text="0")
 km_result.grid(row=1, column=2)
 
-# input = Entry(width=10,text="0")
+input = Entry(width=10,text="0")
 # print(input.get())
 # input.grid(row=0, column=2)
 
