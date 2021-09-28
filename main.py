@@ -25,7 +25,7 @@ km_result.grid(row=1, column=2)
 
 input = Entry(width=10,text="0")
 print(input.get())
-# input.grid(row=0, column=2)
+input.grid(row=0, column=2)
 
 
 # calculate_button = Button(text="Calculate",command=miles_to_km)
