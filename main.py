@@ -18,7 +18,7 @@ km_label = Label(text="Km")
 km_label.grid(row=1, column=3)
 
 is_equal_to_label = Label(text="is equal to")
-# is_equal_to_label.grid(row=1, column=1)
+is_equal_to_label.grid(row=1, column=1)
 
 # km_result = Label(text="0")
 # km_result.grid(row=1, column=2)
