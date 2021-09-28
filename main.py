@@ -33,4 +33,4 @@ calculate_button.config(padx = 10, pady = 10)
 calculate_button.grid(row=2, column=2)
 
 
-# window.mainloop()
+window.mainloop()
